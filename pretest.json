@@ -1,0 +1,46 @@
+[{
+	"question": "At what pH, chlorine exists as molecular chlorine? ",
+	"answers": {
+		"a": "3",
+		"b": "5",
+		"c": "&lt; 5",
+		"d": "&lt; 10"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Which of the following is termed as free available chlorine?  ",
+	"answers": {
+		"a": "Hypochlorous acid",
+		"b": "Hypochlorite ions",
+		"c": "Molecular chlorine",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "When the pH is between 5 and 10, the chlorine in the water acts as ______ ",
+	"answers": {
+		"a": "Hypochlorous acid",
+		"b": "Hypochlorite ions",
+		"c": "Molecular chlorine",
+		"d": "Hypochlorous acid hypochlorite ions"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "At what pH, chlorine in water acts as only hypochlorite ions?  ",
+	"answers": {
+		"a": "&gt; 10",
+		"b": "&gt; 5",
+		"c": "&lt; 5",
+		"d": "&lt; 3"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "The hypochlorous acid is ______ times effective as hypochlorite ions. ",
+	"answers": {
+		"a": "10",
+		"b": "30",
+		"c": "50",
+		"d": "80"
+	},
+	"correctAnswer": "d"
+}]

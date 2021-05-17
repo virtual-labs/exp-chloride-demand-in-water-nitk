@@ -1,0 +1,46 @@
+[{
+	"question": "Chlorine which gets consumed in the oxidation of impurities before disinfection is  ",
+	"answers": {
+		"a": "Free chlorine",
+		"b": "Residual chlorine",
+		"c": "Residual demand",
+		"d": "Chlorine demand"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "The chlorine, which serve as a disinfectant is",
+	"answers": {
+		"a": "Residual chlorine",
+		"b": "Chlorine demand",
+		"c": "Residual demand",
+		"d": "Free chlorine"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "The permissible limit of free residual chlorine is ",
+	"answers": {
+		"a": "0.02ppm",
+		"b": "0.2ppm",
+		"c": "1ppm",
+		"d": "2ppm"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "What is the chemical formula of bleaching powder? ",
+	"answers": {
+		"a": "CaCl",
+		"b": "Ca(OCl)",
+		"c": "Ca(OCl)<sub>2</sub>",
+		"d": "Ca(OCl)<sub>3</sub>"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Bleaching powder contains ______ of available chlorine.",
+	"answers": {
+		"a": "16%",
+		"b": "33.3%",
+		"c": "66.6%",
+		"d": "99.9%"
+	},
+	"correctAnswer": "b"
+}]
